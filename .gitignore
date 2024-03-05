@@ -6,7 +6,9 @@
 # website: http://jupyter.org/
 
 .ipynb_checkpoints
+*.xlsx
 */.ipynb_checkpoints/*
+catboost_info/
 
 # IPython
 profile_default/
