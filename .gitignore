@@ -9,6 +9,7 @@
 *.xlsx
 */.ipynb_checkpoints/*
 catboost_info/
+_raw_Data_TatEnergosbyt/
 
 # IPython
 profile_default/
